@@ -1,5 +1,5 @@
 # the-burger-builder
-A simple application for readers to customize your burger.
+A simple application for build and customize your burger.
 Clone the repo and then:
 
 ```
